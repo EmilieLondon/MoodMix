@@ -53,7 +53,7 @@ The following animation demonstrates the application functionality:
 
 ## Links
 
-- Thirsty or feeling peckish?, click on this link: [MoodMix](https://cyberrie.github.io/MoodMix/)
+- Thirsty or feeling peckish?, click on this link: [MoodMix](https://EmilieLondon.github.io/MoodMix/)
 
 ## Built with...
 
